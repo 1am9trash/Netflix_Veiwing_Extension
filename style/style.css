@@ -1,0 +1,39 @@
+body, html {
+    width: 700px;
+    margin: auto;
+    padding: 10px;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    line-height: 1;
+    background-color: #f0f0f0;
+}
+
+.centered-content {
+    width: 80%;
+    margin: auto;
+}
+
+.centered-content h2 {
+    text-align: center;
+}
+
+.centered-content p {
+    text-align: justify;
+}
+
+.label {
+    text-align: right;
+    font-weight: bold;
+}
+
+.error {
+    color: red;
+    text-align: center;
+    padding: 10px;
+}
+
+button {
+    padding: 10px;
+    font-size: 1em;
+    cursor: pointer;
+}
