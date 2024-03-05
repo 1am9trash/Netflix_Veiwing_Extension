@@ -3,7 +3,7 @@
   "name": "Netflix Viewing Statistics",
   "version": "1.0",
   "description": "This Chrome extension is designed to track personal Netflix habits with easy visuals and stats.",
-  "permissions": ["activeTab", "webRequest"],
+  "permissions": ["activeTab"],
   "host_permissions": [
     "https://www.netflix.com/*"
   ],
